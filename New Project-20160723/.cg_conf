@@ -1,0 +1,1 @@
+{"id":"coldfusion","ext":"cfm","version":"ColdFusion Web View","compile":"","execute":"","preview":"wget http://localhost:8888/index.cfm --output-document=index.htm --output-file=log.htm","command":"","file":"/home/cg/src/samples/index.cfm","url":"execute_coldfusion_online.php","mode":"coldfusion"}
